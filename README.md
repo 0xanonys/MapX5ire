@@ -17,7 +17,7 @@ a)The outbreak of the COVID-19 pandemic has devastated businesses worldwide. The
 
 <img src='./screenshot/map.jpg' />
 
-<img src='./screenshot/proto.jpg' />
+<img src='./screenshot/prot1Home-page.png' />
 
 ## Solution
 
@@ -35,14 +35,14 @@ a)These NFTs can be in the form of vouchers from retail businesses such as resta
 
 b)This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
 
-<img src='./screenshot/location.png' />
+<img src='./screenshot/prot2Login_page.png' />
 
 <img src='./screenshot/voucher.png' />
 
 
 
 
-<img src='./screenshot/celo1.jpg' />
+<img src='./screenshot/5ire_logo.png' />
 
 ## Why 5ire
 
@@ -70,7 +70,7 @@ Universities
 
 2) Catch all the NFTs
 
-<img src='./screenshot/proto1.jpg' />
+<img src='./screenshot/prot3Minted.png' />
 
 ## Deployed Smart Contract on 5ire:- 0xf7061e68f0ba1a200AB98e1b1100a305092Ae4f0 
 [explorer.5ire.network](https://explorer.5ire.network/address/0xf7061e68f0ba1a200AB98e1b1100a305092Ae4f0)
