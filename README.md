@@ -44,11 +44,25 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 <img src='./screenshot/celo1.jpg' />
 
-## Why Celo
+## Why 5ire
 
-Celo is one of the most viable blockchain available in the market. First-generation blockchains such as Bitcoin paved the way for the industry. However, they did not create a functional environment for developing complex smart contract-based financial solutions. Second-generation blockchains such as Ethereum introduced smart contract capabilities. However, they suffer from significant scalability issues, resulting in network congestion and high transaction fees for users.
+Government
 
-On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
+5ire provides a novel way for governments to engage with citizens and scale their capacities for effective administration with transparency, efficiency, and speed.
+
+Fortune 500
+
+Fortune 500 companies have a disproportionate impact on the future of the world's sustainability. By encoding SGDs and ESG in our blockchain, 5ire makes it easy for businesses to do good.
+
+Social Entrepreneurs
+
+5ire is fast, secure, and cheap. This makes us an ideal ecosystem for entrepreneurs who want to combine impact with business as they scale their mission.
+
+Universities
+
+5ire helps universities leverage the power of sustainability and make their administration and operations digitalized, real-time and transparent
+![image](https://user-images.githubusercontent.com/92167127/225213422-008bf7dc-10a2-4d1f-b2df-1a36efd65187.png)
+
 
 
 
@@ -68,4 +82,4 @@ On the other hand, Tezos is a third-generation blockchain that combines the form
 ## Deployed Smart Contract on 5ire:- 0xf7061e68f0ba1a200AB98e1b1100a305092Ae4f0 
 [explorer.5ire.network](https://explorer.5ire.network/address/0xf7061e68f0ba1a200AB98e1b1100a305092Ae4f0)
 
-## Special thanks to Celo Team for their support 
+## Special thanks to 5Fire Team for their support 
