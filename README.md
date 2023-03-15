@@ -61,7 +61,6 @@ Social Entrepreneurs
 Universities
 
 5ire helps universities leverage the power of sustainability and make their administration and operations digitalized, real-time and transparent
-![image](https://user-images.githubusercontent.com/92167127/225213422-008bf7dc-10a2-4d1f-b2df-1a36efd65187.png)
 
 <img src='./screenshot/cart.png' />
 
